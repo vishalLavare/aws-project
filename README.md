@@ -1,4 +1,4 @@
-## NodeApp
+## Nodejs-App
 
 This is a simple Node.js application that serves "Hello World" on port 3000.
 
