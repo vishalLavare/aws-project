@@ -46,8 +46,5 @@ npm start
 ## Accessing the Application
 Open a browser and go to http://your-public-ip-address:3000 to see your Node.jsapp running.
 
-## Contributing
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
 ## License
 This project is licensed under the MIT License.
