@@ -30,6 +30,7 @@ This is a simple Node.js application that serves "Hello World" on port 3000.
 4. **Create the `package.json` file:**
     ```bash
     nano package.json
+    ```
     
 5. **Create the `index.js` file:**
     ```bash
