@@ -35,13 +35,14 @@ This is a simple Node.js application that serves "Hello World" on port 3000.
 5. **Create the `index.js` file:**
     ```bash
     nano index.js
-
+    ```
+    
 ## Running the Application
 
 To start the Node.js application, run:
 ```bash
 npm start
-
+```
 ## Accessing the Application
 Open a browser and go to http://your-public-ip-address:3000 to see your Node.jsapp running.
 
