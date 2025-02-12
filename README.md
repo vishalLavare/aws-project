@@ -43,6 +43,13 @@ To start the Node.js application, run:
 ```bash
 npm start
 ```
+
+![Alt text](./images/index.js.png)
+![Alt text](./images/package.json.png)
+![Alt text](./images/npm start.png)
+![Alt text](./images/output.png)
+
+
 ## Accessing the Application
 Open a browser and go to http://your-public-ip-address:3000 to see your Node.jsapp running.
 
