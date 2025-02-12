@@ -44,10 +44,19 @@ To start the Node.js application, run:
 npm start
 ```
 
-![Alt text](./nodeapp/images/index.js.png)
-![Alt text](./images/package.json.png)
-![Alt text](./images/npm start.png)
-![Alt text](./images/output.png)
+# Project Screenshots
+
+### 1. Index Page
+![Index Page](./image/index.png)
+
+### 2. NPM Start Output
+![NPM Start](./image/npm-start.png)
+
+### 3. Output Screenshot
+![Output](./image/output.png)
+
+### 4. Package Info
+![Package](./image/package.png)
 
 
 ## Accessing the Application
