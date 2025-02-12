@@ -56,7 +56,7 @@ npm start
 ![Output](./image/output.png)
 
 ### 4. Package Info
-![Package](./image/package.png)
+![Package](./image/package.png) 
 
 
 ## Accessing the Application
